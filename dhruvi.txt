@@ -1,1 +1,3 @@
-hello worls
+hello world
+my name is dhruvi
+I am studing in charusat university
